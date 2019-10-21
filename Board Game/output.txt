@@ -1,0 +1,78 @@
+Enter a command: (Type help for details)
+help
+Possible commands are as follows:
+create location [fast][flexible]: Creates a new piece.
+move location direction [spaces]: Moves a piece.
+print: Displays the board.
+help: Displays help.
+exit: Exits the program.
+Enter a command: (Type help for details)
+print
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+Enter a command: (Type help for details)
+create 1 6 slow
+Input the name of your piece
+Jedi
+Input the color for your piece
+Blue
+Enter a command: (Type help for details)
+create 2 4 slow flexible
+Input the name of your piece
+Knight
+Input the color for your piece
+Black
+Enter a command: (Type help for details)
+create 6 3 fast
+Input the name of your piece
+Sith
+Input the color for your piece
+Red
+Enter a command: (Type help for details)
+create 4 3 fast flexible
+Input the name of your piece
+Ninja
+Input the color for your piece
+Yellow
+Enter a command: (Type help for details)
+print
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       -                       -                       -                       JediBlueS               -
+-                       -                       -                       -                       KnightBlackSF           -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       NinjaYellowFF           -                       -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       SithRedF                -                       -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+Enter a command: (Type help for details)
+move 1 6 left
+Enter a command: (Type help for details)
+print
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       -                       -                       JediBlueS               -                       -
+-                       -                       -                       -                       KnightBlackSF           -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       NinjaYellowFF           -                       -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       SithRedF                -                       -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+Enter a command: (Type help for details)
+move 4 3 up 3
+Enter a command: (Type help for details)
+print
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       NinjaYellowFF           -                       JediBlueS               -                       -
+-                       -                       -                       -                       KnightBlackSF           -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+-                       -                       -                       SithRedF                -                       -                       -                       -
+-                       -                       -                       -                       -                       -                       -                       -
+Enter a command: (Type help for details)
+exit
