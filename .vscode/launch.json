@@ -1,0 +1,67 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TowersOfHanoi",
+            "request": "launch",
+            "mainClass": "TowersOfHanoi",
+            "projectName": "JavaPrograms_51be3060"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SumOfSquares",
+            "request": "launch",
+            "mainClass": "SumOfSquares",
+            "projectName": "JavaPrograms_51be3060"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Powers",
+            "request": "launch",
+            "mainClass": "Powers",
+            "projectName": "JavaPrograms_51be3060"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - nthPrime",
+            "request": "launch",
+            "mainClass": "nthPrime",
+            "projectName": "JavaPrograms_51be3060"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Multiples",
+            "request": "launch",
+            "mainClass": "Multiples",
+            "projectName": "JavaPrograms_51be3060"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "JavaPrograms_51be3060"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DigitsOfANumber",
+            "request": "launch",
+            "mainClass": "DigitsOfANumber",
+            "projectName": "JavaPrograms_51be3060"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "JavaPrograms_51be3060"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Factorial",
+            "request": "launch",
+            "mainClass": "Recursion.Factorial",
+            "projectName": "JavaPrograms_51be3060"
+        }
+    ]
+}
